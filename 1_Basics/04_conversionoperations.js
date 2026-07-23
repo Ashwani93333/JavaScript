@@ -8,6 +8,6 @@ console.log(9+74+"4"); //834
 /*
 + is the concatenation operator for strings and addition operator for numbers.
 - is the subtraction operator for numbers and it will convert strings to numbers if possible.
-
 The + operator is used for string concatenation if either operand is a string
 */
+

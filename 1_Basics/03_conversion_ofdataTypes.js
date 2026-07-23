@@ -22,7 +22,7 @@ String(undefined);    // "undefined"
 
 Number("123");        // 123
 Number("12.5");       // 12.5
-Number("abc");        // NaN  (NOt a Number)
+Number("abc");        // NaN  (Not a Number)
 Number("");           // 0
 Number(" ");          // 0
 Number(true);         // 1
